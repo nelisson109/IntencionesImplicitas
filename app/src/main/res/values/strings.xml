@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntencionesImplicitas</string>
+    <string name="txt_btn1">Ir a la web</string>
+    <string name="txt_btn2">Llamar por teléfono</string>
+    <string name="txt_btn3">Ir a google maps</string>
+    <string name="txt_btn4">Tomar foto</string>
+    <string name="txt_btn5">Enviar correo</string>
+    <string name="txt_btn6">Realiza una búsqueda</string>
+    <string name="txt_btn7">Llamada con CALL</string>
+    <string name="txt_btn8">StreetView</string>
+</resources>
